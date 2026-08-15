@@ -274,5 +274,7 @@ The application will then open in your browser.
 ## Author
 
 **Asima Shafiq**
+
 BS Data Science Student
+
 Government College University Faisalabad
