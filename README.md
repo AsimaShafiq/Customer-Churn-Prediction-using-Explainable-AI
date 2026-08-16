@@ -181,7 +181,9 @@ This makes the prediction more transparent and helps users understand the reason
 
 🚀 Live Application
 
-🔗 Click here to try the live application
+🔗 Click here to try the live application:
+
+https://customer-churn-prediction-using-explainable-ai-3wqtturexwrn6v8.streamlit.app/
 
 ---
 
