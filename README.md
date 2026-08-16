@@ -179,6 +179,10 @@ After clicking **Predict Churn**, the application provides:
 
 This makes the prediction more transparent and helps users understand the reasons behind the model's decision.
 
+🚀 Live Application
+
+🔗 Click here to try the live application
+
 ---
 
 ## Project Structure
