@@ -22,8 +22,8 @@ st.set_page_config(
 @st.cache_resource
 def load_artifacts():
 
-    preprocessor = joblib.load("Preprocessor.pkl")
-    model = joblib.load("Model.pkl")
+    preprocessor = joblib.load("Models/Preprocessor.pkl")
+    model = joblib.load("Models/Model.pkl")
 
     return preprocessor, model
 
